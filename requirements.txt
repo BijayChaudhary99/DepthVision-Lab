@@ -1,0 +1,7 @@
+opencv-python
+numpy
+matplotlib
+torch
+transformers
+scipy
+scikit-image
